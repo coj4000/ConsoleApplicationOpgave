@@ -11,7 +11,8 @@ namespace ConsoleApplicationOpgave
         static void Main(string[] args)
         {
             Console.WriteLine("Test af Git Branch");
-            //changes
+            Console.WriteLine("Er nu på develop branch");
+
         }
     }
 }
